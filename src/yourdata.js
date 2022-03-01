@@ -20,9 +20,9 @@ export default {
     //Line 1 For Header
     "Devloper, UI designing",
     //Line 2 For Header
-    "designing products, brands, illustrating",
+    "designing products,brand",
     //Line 3 For Header
-    "and experience",
+    "and illustrating",
   ],
   //   Header Paragraph
   headerParagraph:
